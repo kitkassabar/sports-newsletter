@@ -1,0 +1,68 @@
+
+.news-title {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    color:#121212;
+}
+
+img {
+    width: 380px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width:3px;
+}
+
+.terms {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.pitch {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    width:380px 
+}
+
+.more{
+    display:block;   
+}
+
+.input {
+    display: block;
+    margin-right:auto;
+    margin-left:auto;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom:10px;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right:10px;
+    padding-left:10px;
+    font-weight: bold;
+    width:230px
+}
+
+button {
+    width: 250px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    color: white;
+    background: #121212;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+
+    
